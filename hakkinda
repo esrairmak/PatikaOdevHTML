@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <title>Hakkımızda Kodluyoruz</title>
+</head>
+<body>
+
+    <!-- Navbar start-->
+    <header>
+        <nav>
+            <ul>
+                <li>
+                    <a href="index.html">Anasayfa</a>
+                </li>
+                <li>
+                    <a href="about.us.html">Hakkımızda</a>
+                </li>
+                <li>
+                    <a href="contact.html">İletişim</a>
+                </li>
+            </ul>
+        </nav>
+    </header>
+    <section>
+        <article>
+            <h2>Hakkımızda</h2>
+            <img src="https://picsum.photos/id/2/600/300" alt="yazı 1">
+            <p>Merhabalar, bu kodu okduğun için teşekkür ederim. </p>
+        </article>
+    </section>
+    <footer>
+        <nav>
+            <ul>
+                <li>
+                    <a href="index.html">Anasayfa</a>
+                </li>
+                <li>
+                    <a href="about.us.html">Hakkımızda</a>
+                </li>
+                <li>
+                    <a href="contact.html">İletişim</a>
+                </li>
+            </ul>
+        </nav>
+    </footer>
+    </body>
+</html>
