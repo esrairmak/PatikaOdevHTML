@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <title>İletişim </title>
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li>
+                    <a href="index.html">Anasayfa</a>
+                </li>
+                <li>
+                    <a href="about.us.html">Hakkımızda</a>
+                </li>
+                <li>
+                    <a href="contact.html">İletişim</a>
+                </li>
+            </ul>
+        </nav>
+    </header>
+   <section>
+       <article>
+            <h2>İletişim</h2>
+         <p>
+                Adres: HATAY-Antakya </p>
+        <ul>
+                <li>
+                    <a href="mailto:mail@mail.com">Send mail</a></li>
+                <li><a href="tel:0876987867890">Call us!</a></li>
+            </ul>
+           </article>
+</section>
+   <footer>
+        <nav>
+            <ul>
+                <li>
+                    <a href="index.html">Anasayfa</a>
+                </li>
+                <li>
+                    <a href="about.us.html">Hakkımızda</a>
+                </li>
+                <li>
+                    <a href="contact.html">İletişim</a>
+                </li>
+            </ul>
+        </nav>
+    </footer>
+ </body>
+</html>
